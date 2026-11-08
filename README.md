@@ -25,4 +25,6 @@ Finalmente no arquivo AGENTS.md do diretório raíz deve ser modificado a parte 
 
 Outros arquivos desse repositório incluem os arquivos de skill e knowledge criados para teste bem como os arquivos que foram modificados por ter sido pedido. 
 
+Decidi criar um agente para ajudar a otimizar código, algumas vezes principalmente quando estou aprendendo os códigos criados podem demorar ou usar funções desnecessárias, além disso caso exista uma forma mais simples é sempre bom aprender.
+
 Esse arquivo explica onde devem ser colocados.
