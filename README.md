@@ -23,6 +23,6 @@ Outra mudança que deve ser feita é no próprio arquivo persona.md encontrado n
 
 Finalmente no arquivo AGENTS.md do diretório raíz deve ser modificado a parte que explica skills do agente.
 
-Outros arquivos desse repositório incluem os arquivos de skill e knowledge criados para teste.
+Outros arquivos desse repositório incluem os arquivos de skill e knowledge criados para teste bem como os arquivos que foram modificados por ter sido pedido. 
 
-Deve ser notado que esse arquivo explica onde devem ser incluídos e outras mudanças que devem ser feitas em outros arquivos do agente para que ele funcione como esperado.
+Esse arquivo explica onde devem ser colocados.
