@@ -27,3 +27,7 @@ O código pose ser analisado sem execução e existem ferramentas para fazê-lo,
 ## Análise dinâmica
 
 Analisar o código durante a execução, monitorando uso de memória vazamentos e tempo de execução.
+
+## Funções desnecessárias
+
+Funções que não são usadas podem aparecer no código, mas devem ser removidas no produto final.
